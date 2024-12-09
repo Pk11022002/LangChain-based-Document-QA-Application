@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-chroma
+pypdf
+python-dotenv
+openai
+langchain_core
